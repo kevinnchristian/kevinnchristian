@@ -13,13 +13,13 @@
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-        <img width="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
       </td>
       <td width="10%" align="center">
-        <img width="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
       </td>
       <td width="10%" align="center">
-        <img width="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
       </td>
     </tr>
     <tr valign="top">
