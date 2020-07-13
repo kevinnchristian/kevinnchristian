@@ -12,14 +12,14 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="50px" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
+      <td width="10%" align="center">
+        <img width="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
       </td>
-      <td width="50px" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
+      <td width="10%" align="center">
+        <img width="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
       </td>
-      <td width="50px" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
+      <td width="10%" align="center">
+        <img width="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
       </td>
     </tr>
     <tr valign="top">
