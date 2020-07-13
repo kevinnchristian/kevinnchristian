@@ -19,6 +19,11 @@
         <img height="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
       </td>
       <td width="10%" align="center">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="10%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/html-5.png">
       </td>
       <td width="10%" align="center">
@@ -27,9 +32,8 @@
       <td width="10%" align="center">
         <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
       </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
-      </td>
+    </tr>
+    <tr valign="top">
       <td width="10%" align="center">
         <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/sequelize_nc3i6v.svg">
       </td>
@@ -42,10 +46,10 @@
     </tr>
     <tr valign="top">
       <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/git.png">
+        <img height="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
       </td>
       <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/git.png">
       </td>
       <td width="10%" align="center">
         <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/npm_reohxz.png">
