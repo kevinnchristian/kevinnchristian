@@ -13,41 +13,32 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/node.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/express.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/html-5.png">
       </td>
       <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/css3.png">
       </td>
       <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
+      </td>
+      <td width="25%" align="center">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+      </td>
+      <td width="25%" align="center">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/git.png">
       </td>
       <td width="25%" align="center">
-        <img height="48px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
       </td>
     </tr>
   </tbody>
