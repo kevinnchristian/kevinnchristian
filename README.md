@@ -1,11 +1,11 @@
-# Olá! Eu sou Kevin Christian,
-[![Linkedin Badge](https://img.shields.io/badge/-kevinnchristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinnchristian/)](https://www.linkedin.com/in/kevinnchristian/) [![Outlook Badge](https://img.shields.io/badge/-kevin.cmribeiro@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:kevin.cmribeiro@outlook.com)](mailto:kevin.cmribeiro@outlook.com) [visitors](https://visitor-badge.glitch.me/badge?page_id=kevinnchristian.kevinnchristian)
+# Olá! Eu sou Kevin Christian, ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=kevinnchristian&hide=["issues"]&show_icons=true)
+[![Linkedin Badge](https://img.shields.io/badge/-kevinnchristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinnchristian/)](https://www.linkedin.com/in/kevinnchristian/) [![Outlook Badge](https://img.shields.io/badge/-kevin.cmribeiro@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:kevin.cmribeiro@outlook.com)](mailto:kevin.cmribeiro@outlook.com) ![visitors](https://visitor-badge.glitch.me/badge?page_id=kevinnchristian.kevinnchristian)
 
 :computer: Sou Desenvolvedor Full Stack,
 
 :heart_eyes: Meu maior foco é desenvolver sistemas com `javascript` e seus `frameworks`, 
 
-:exclamation: Tenho maior facilidade em desenvolver front-end.
+:smiley: Tenho maior facilidade em desenvolver `front-end`.
 
 ## Minhas Habilidades
 
@@ -37,5 +37,3 @@
     </tr>
   </tbody>
 </table>
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=kevinnchristian&hide=["issues"]&show_icons=true)
