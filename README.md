@@ -1,5 +1,5 @@
 # Olá! Eu sou Kevin Christian,
-[![Linkedin Badge](https://img.shields.io/badge/-kevinnchristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinnchristian/)](https://www.linkedin.com/in/kevinnchristian/) [![Outlook Badge](https://img.shields.io/badge/kevin.cmribeiro%40outlook.com-blue&link=mailto:kevin.cmribeiro@outlook.com)](mailto:kevin.cmribeiro@outlook.com) ![visitors](https://visitor-badge.glitch.me/badge?page_id=kevinnchristian.kevinnchristian)
+[![Linkedin Badge](https://img.shields.io/badge/-kevinnchristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinnchristian/)](https://www.linkedin.com/in/kevinnchristian/) [![Outlook Badge](https://img.shields.io/badge/kevin.cmribeiro@outlook.com-blue&link=mailto:kevin.cmribeiro@outlook.com)](mailto:kevin.cmribeiro@outlook.com) ![visitors](https://visitor-badge.glitch.me/badge?page_id=kevinnchristian.kevinnchristian)
 
 :computer: Sou Desenvolvedor Full Stack,
 
