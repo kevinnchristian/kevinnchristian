@@ -13,18 +13,16 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
+      </td>
+      <td width="25%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/html-5.png">
       </td>
       <td width="25%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/css3.png">
-      </td>
-      <td width="25%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
       </td>
       <td width="25%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
