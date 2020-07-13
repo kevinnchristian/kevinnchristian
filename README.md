@@ -25,10 +25,19 @@
         <img height="48px" src="https://img.icons8.com/color/48/000000/css3.png">
       </td>
       <td width="25%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
       </td>
       <td width="25%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
+      </td>
+      <td width="25%" align="center">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/sequelize_nc3i6v.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/mysql_v4bxfo.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/mongodb_imrfbs.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -37,6 +46,9 @@
       </td>
       <td width="25%" align="center">
         <img height="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+      </td>
+      <td width="25%" align="center">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/npm_reohxz.png">
       </td>
     </tr>
   </tbody>
