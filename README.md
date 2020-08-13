@@ -32,6 +32,9 @@
       <td width="10%" align="center">
         <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
       </td>
+      <td width="10%" align="center">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1597340327/sass_jqisk9.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="10%" align="center">
@@ -53,6 +56,9 @@
       </td>
       <td width="10%" align="center">
         <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/npm_reohxz.png">
+      </td>
+      <td width="10%" align="center">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1597340598/yarn_tmhqrc.svg">
       </td>
     </tr>
   </tbody>
