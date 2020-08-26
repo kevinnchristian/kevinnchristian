@@ -11,7 +11,7 @@
 
 <table>
   <tbody>
-    <tr valign="top">
+    <tr valign="top" style="background: #000">
       <td width="10%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
       </td>
