@@ -1,9 +1,9 @@
 # Olá! eu sou Kevin Christian,
 [![Linkedin Badge](https://img.shields.io/badge/-kevinnchristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinnchristian/)](https://www.linkedin.com/in/kevinnchristian/) [![Outlook Badge](https://img.shields.io/badge/-kevin.cmribeiro@outlook.com-blue?style=flat-square&link=mailto:kevin.cmribeiro@outlook.com)](mailto:kevin.cmribeiro@outlook.com)
 
-:computer: Desenvolvedor Full Stack,
-:heart_eyes: Meu maior foco é desenvolver sistemas com `javascript` e seus `frameworks`, 
-:smiley: Facilidade em desenvolver `front-end`.
+<p>:computer: Desenvolvedor Full Stack,</p>
+<p>:heart_eyes: Meu maior foco é desenvolver sistemas com `javascript` e seus `frameworks`,</p>
+<p>:smiley: Facilidade em desenvolver `front-end`.</p>
 
 ## Minhas Habilidades
 
