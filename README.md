@@ -1,7 +1,7 @@
 # Olá! eu sou Kevin Christian,
 [![Linkedin Badge](https://img.shields.io/badge/-kevinnchristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinnchristian/)](https://www.linkedin.com/in/kevinnchristian/) [![Outlook Badge](https://img.shields.io/badge/-kevin.cmribeiro@outlook.com-blue?style=flat-square&link=mailto:kevin.cmribeiro@outlook.com)](mailto:kevin.cmribeiro@outlook.com)
 
-:computer: Desenvolvedor Full Stack,
+:computer: Desenvolvedor Web Full Stack,
 
 :heart_eyes: Meu maior foco é desenvolver sistemas com `javascript` e seus `frameworks`,
 
