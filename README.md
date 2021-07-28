@@ -3,7 +3,7 @@
 
 :computer: Desenvolvedor Full Stack,
 
-:heart_eyes: Meu maior foco é desenvolver sistemas com `javascript` e seus `frameworks`,
+:heart_eyes: Meu maior foco é desenvolver sistemas com `javascript` e seus `frameworks`.
 
 ## Minhas Habilidades
 
