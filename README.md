@@ -1,6 +1,6 @@
 # Olá! me chamo Kevin Christian,
 
-### 💻💓 Meu coração bate mais forte para o desenvolvimento front-end web e mobile 
+## 💓 bate mais forte pelo 💻 desenvolvimento front-end web e mobile 
 
 <hr/>
 
