@@ -2,8 +2,6 @@
 
 ## 💓 bate mais forte pelo 💻 desenvolvimento front-end web e mobile 
 
-<hr/>
-
 <center>
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="42" src="https://img.icons8.com/color/48/000000/html-5.png">
