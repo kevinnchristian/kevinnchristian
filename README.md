@@ -11,7 +11,19 @@
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/html-5.png">
+      </td>
+      <td width="10%" align="center">
+        <img height="48px" src="https://img.icons8.com/color/48/000000/css3.png">
+      </td>
+      <td width="10%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
+      </td>
+      <td width="10%" align="center">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
+      </td>
+      <td width="10%" align="center">
+        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1597340327/sass_jqisk9.svg">
       </td>
       <td width="10%" align="center">
         <img height="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
@@ -21,43 +33,5 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/html-5.png">
-      </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/css3.png">
-      </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
-      </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1597340327/sass_jqisk9.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/sequelize_nc3i6v.svg">
-      </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/mysql_v4bxfo.svg">
-      </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/mongodb_imrfbs.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-      </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/git.png">
-      </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/npm_reohxz.png">
-      </td>
-      <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1597340598/yarn_tmhqrc.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
