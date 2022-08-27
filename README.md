@@ -11,25 +11,25 @@
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/html-5.png">
+        <img height="40px" src="https://img.icons8.com/color/48/000000/html-5.png">
       </td>
       <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/css3.png">
+        <img height="40px" src="https://img.icons8.com/color/48/000000/css3.png">
       </td>
       <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/javascript.png">
+        <img height="40px" src="https://img.icons8.com/color/48/000000/javascript.png">
       </td>
       <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
+        <img height="40px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
       </td>
       <td width="10%" align="center">
-        <img height="48px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1597340327/sass_jqisk9.svg">
+        <img height="40px" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1597340327/sass_jqisk9.svg">
       </td>
       <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/nodejs.png">
+        <img height="40px" src="https://img.icons8.com/color/48/000000/nodejs.png">
       </td>
       <td width="10%" align="center">
-        <img height="48px" src="https://img.icons8.com/color/48/000000/react-native.png">
+        <img height="40px" src="https://img.icons8.com/color/48/000000/react-native.png">
       </td>
     </tr>
     <tr valign="top">
