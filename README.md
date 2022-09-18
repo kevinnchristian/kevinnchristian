@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 <a href = "mailto:contact@kevinnchristian.com">
-  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=minutemailer&logoColor=white&logoWidth=32" target="_blank">  
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  
+</a>
+<a href = "https://wa.me/+5511954535086" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">  
 </a>
 </div>
