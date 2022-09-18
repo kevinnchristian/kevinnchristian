@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  
 </a>
 <a href = "https://wa.me/+5511954535086" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width: 100%; background-color:#673de6" target="_blank">  
+  <img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">  
 </a>
 </div>
