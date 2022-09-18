@@ -1,6 +1,6 @@
 # Olá! me chamo Kevin Christian,
 
-## 💓 bate mais forte pelo 💻 desenvolvimento front-end web e mobile 
+## 💻 Desenvolvedor front-end web e mobile 
 
 <center>
   <div style="display: inline_block"><br>
