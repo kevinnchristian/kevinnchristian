@@ -1,5 +1,3 @@
-# Olá! me chamo Kevin Christian,
-
 ## 💻 Desenvolvedor ServiceNow
 
 <center>
