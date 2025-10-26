@@ -8,7 +8,7 @@
     <img align="center" alt="CSS" height="42" src="https://img.icons8.com/color/48/000000/css3.png">
     <img align="center" alt="JS" height="42" src="https://img.icons8.com/color/48/000000/javascript.png">
     <img align="center" alt="Bootstrap" height="42" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
-    <img align="center" alt="ServiceNow" height="42" src="https://brandfetch.com/service-now.com?library=default&collection=logos&asset=idncwrgMSg">
+    <img align="center" alt="ServiceNow" height="42" src="https://cdn.brandfetch.io/idn6njzi5Z/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1677205841008">
   </div>
 </center>
 
