@@ -1,6 +1,6 @@
 # Olá! me chamo Kevin Christian,
 
-## 💻 Desenvolvedor front-end web e mobile 
+## 💻 Desenvolvedor ServiceNow
 
 <center>
   <div style="display: inline_block"><br>
@@ -8,9 +8,7 @@
     <img align="center" alt="CSS" height="42" src="https://img.icons8.com/color/48/000000/css3.png">
     <img align="center" alt="JS" height="42" src="https://img.icons8.com/color/48/000000/javascript.png">
     <img align="center" alt="Bootstrap" height="42" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1594675630/bootstrap_wnrqzq.svg">
-    <img align="center" alt="Sass" height="42" src="https://res.cloudinary.com/kevinnchristian/image/upload/v1597340327/sass_jqisk9.svg">
-    <img align="center" alt="NodeJS" height="42" src="https://img.icons8.com/color/48/000000/nodejs.png">
-    <img align="center" alt="React Native" height="42" src="https://img.icons8.com/color/48/000000/react-native.png">
+    <img align="center" alt="ServiceNow" height="42" src="https://brandfetch.com/service-now.com?library=default&collection=logos&asset=idncwrgMSg">
   </div>
 </center>
 
